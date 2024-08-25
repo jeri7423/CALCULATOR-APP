@@ -64,7 +64,3 @@ To run this project, you need:
 ## Contributing
 
 Feel free to submit issues or contribute by making a pull request. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
